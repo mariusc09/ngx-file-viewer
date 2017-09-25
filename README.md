@@ -1,2 +1,3 @@
-# ngx-file-reader
+# ngx-file-viewer
 A file reader for Angular
+
