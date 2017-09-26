@@ -4,6 +4,7 @@ import { Component,
     Input } from '@angular/core';
 
 @Component({
+    moduleId: module.id,
     selector: 'file-viewer',
     templateUrl: './file-viewer.component.html',
     styleUrls: ['./file-viewer.component.css']
